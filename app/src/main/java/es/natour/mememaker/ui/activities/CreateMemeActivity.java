@@ -178,6 +178,7 @@ public class CreateMemeActivity extends Activity {
 
 
         MemeDatasource memeDatasource = new MemeDatasource(this);
+        memeDatasource.create(mCurrentMeme);
         if (mCurrentMeme.getId() != -1) {
             memeDatasource.update(mCurrentMeme);
         } else {
@@ -185,3 +186,5 @@ public class CreateMemeActivity extends Activity {
         }
     }
 }
+
+
