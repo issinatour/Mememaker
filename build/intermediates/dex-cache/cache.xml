@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\build\intermediates\pre-dexed\debug\classes-3f4b9c1b401000a07141d248e6f82d03168bdef9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-a7ded4fe59f8722d24ade25e94cb1f06a09d1699.jar" />
+    </item>
+    <item
+        jar="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-cfa04e566e10202d1d9d11087ba341f24f90b021.jar" />
+    </item>
+    <item
+        jar="C:\Users\Issam\Desktop\Eclipse+Sdk\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-f877022ad10ed807474a52820bb53386628a339c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\build\intermediates\pre-dexed\debug\classes-ae67d6bf08e7f34cbd3711ae44239eb8f394066b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Issam\Qsync\mememakertrue\MemeMaker-master\app\build\intermediates\pre-dexed\debug\commons-io-2.4-d4d81c40e0f1fcb0ee1fb05c9f791bae7871dbfc.jar" />
+    </item>
+
+</items>
